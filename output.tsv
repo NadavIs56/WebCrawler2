@@ -1,0 +1,16 @@
+url	depth	ratio
+https://translate.google.com/	1	0.33
+https://translate.google.com/?hl=en&tab=TT	2	0.33
+https://about.google/products/?tab=Th	2	0.12
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Ftranslate.google.com%2F&ec=GAZAMw&followup=https%3A%2F%2Ftranslate.google.com%2F&ifkv=ARpgrqfWmwuy1gC4ecWKbepeaIzetaub7vsRYJhHX6gEyeVSAPVt9oy0L7Bi_QlSU5yAcm9oCYbfXA&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S873670957%3A1728300743956255	2	0.67
+https://translate.google.com/about/?hl=en-US	2	0.38
+https://policies.google.com/?hl=en-US	2	0.68
+https://support.google.com/translate/?hl=en	2	0.79
+https://about.google/?hl=en-US	2	0.34
+https://support.google.com/translate/answer/9179237?hl=en&visit_id=638638975471311354-3978318374&p=gendered_translations&rd=1	2	0.69
+https://support.google.com/translate/answer/9179237?hl=en&visit_id=638638975479776725-3667870546&p=gendered_translations&rd=1	2	0.69
+https://support.google.com/translate/answer/2534559?ref_topic=7011659&hl=en	2	0.73
+https://cloud.google.com/translation-hub?hl=en_US	2	0.94
+https://support.google.com/translate/answer/6142483?ref_topic=7011659&hl=en	2	0.75
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Ftranslate.google.com%2Fhistory&followup=https%3A%2F%2Ftranslate.google.com%2Fhistory&ifkv=ARpgrqdlL20bdwqBI5dQuWlOq0YW_JhSnUelSBqf-MgNlpZv01n5zxhKM7y7Q5Y1oNvzskGfErfkXg&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1222203286%3A1728300751561639	2	0.67
+https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Ftranslate.google.com%2Fsaved&followup=https%3A%2F%2Ftranslate.google.com%2Fsaved&ifkv=ARpgrqcE_HakuxHcwSgbl1w7cIJSnFfSknqYKDoKUEFIJzk9e05c_szKZ1ZnnUZUUAVdGrswpUCRBQ&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1610261689%3A1728300751989498	2	0.67
