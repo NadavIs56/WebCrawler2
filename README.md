@@ -103,10 +103,6 @@ The tests cover a wide range of scenarios, including:
 
 <br>
 
-### Asynchronous Version Implementation
-To improve performance, I implemented an asynchronous version of the crawler using `asyncio` and `aiohttp` for concurrent HTTP requests. The code was refactored with `async def` functions and `await` for asynchronous operations. Concurrency issues, such as race conditions when accessing shared resources, were handled using `asyncio.Lock`.
-However, since the assignment didn’t explicitly require asynchronous implementation, I submitted the synchronous version to ensure full compliance with the given requirements.
-
 
 ## Author
 ### Nadav Ishai
