@@ -1,4 +1,13 @@
-# Web Crawler
+#  <p align ="center" height="40px" width="40px"> WebCrawler 🕸️ </p>
+
+### <p align ="center"> Implemented using: </p>
+<p align ="center">
+<a href="https://beautiful-soup-4.readthedocs.io/en/latest/#" target="_blank" rel="noreferrer">   <img src="https://db0dce98.rocketcdn.me/en/files/2024/01/beautiful-soup.png" width="80" height="48" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="48" height="48" /></a>
+<a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer">   <img src="https://media.licdn.com/dms/image/v2/D5612AQGJX_fKnD8pdg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1695384787213?e=1734566400&v=beta&t=T44X1c_meqgUcU7LapFFjB7xdBJ3eVAiAw6QDtTLv5Q" width="80" height="48" /></a>
+</p>
+
+<br>
 
 ## Overview
 The WebCrawler project is a Python-based tool designed to traverse web pages starting from a given root URL, 
